@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1325bcfa-d1fc-4129-bd1c-a92a5acaf317" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ClientWS1.java" afterDir="false" />
-    </list>
+    <list default="true" id="1325bcfa-d1fc-4129-bd1c-a92a5acaf317" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +36,7 @@
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "last_opened_file_path": "C:/Users/Zakaria/Desktop/Microservice-Clients-Produits-Factures--main",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.37",
@@ -75,6 +69,7 @@
       <workItem from="1726755163462" duration="266000" />
       <workItem from="1726755439105" duration="54000" />
       <workItem from="1726755502932" duration="4196000" />
+      <workItem from="1726766215933" duration="177000" />
     </task>
     <servers />
   </component>
